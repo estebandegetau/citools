@@ -1,0 +1,11 @@
+Package: citools
+Title: Tools for Cuenta Individual
+Version: 0.0.0.9000
+Authors@R: 
+    person("Esteban", "Degetau", , "estebandegetau@gmail.com", role = c("aut", "cre"),
+           comment = c(ORCID = "0009-0004-4095-8819"))
+Description: Work with data from Cuenta Individual.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.1
