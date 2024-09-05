@@ -5,7 +5,6 @@
 #' @param NSS caracter. Número de seguridad social
 #'
 #' @return A [ggplot2::ggplot()] class element.
-#' @export
 plot_intervals <- function(data, NSS) {
 
 
